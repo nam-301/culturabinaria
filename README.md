@@ -1,7 +1,5 @@
 # Digital Literacy
 
-*This file begins with an **English summary** of the project. Per info in italiano, scorrere più sotto!* :arrow_down:
-
 This repository contains curricula, syllabi and classroom activities of an ongoing digital literacy course for **low-educated asylum seekers and migrants** who recently arrived in Rovereto, a city in Italy. 
 
 The course is designed according to **non-formal education principles.**
