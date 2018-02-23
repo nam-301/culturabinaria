@@ -1,4 +1,4 @@
-# Digital Literacy
+**Alfabetodigitale** is a made up Italian word reminiscent of the words "digital" and "literacy".
 
 This repository contains curricula, syllabi and classroom activities of an ongoing digital literacy course for **low-educated asylum seekers and migrants** who recently arrived in Rovereto, a city in Italy. 
 
