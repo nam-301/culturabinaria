@@ -1,8 +1,10 @@
 # Benvenuti! Welcome!
 
-Benvenuti in **pensierodigitale**! :it:Per la versione italiana, cliccate [qui](#italiano) :it:
+Benvenuti in pensierodigitale!  
 
-:seedling: Thank you for visiting the **pensierodigitale** project. We are happy you are here :seedling:
+:it: Per la versione italiana, cliccate [qui](#italiano).
+
+:seedling:Thank you for visiting the **pensierodigitale** project. We are happy you are here :seedling:
 
 **Pensierodigitale** is a made-up Italian word that can be roughly be translated as "digital thinking".
 
