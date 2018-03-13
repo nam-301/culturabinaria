@@ -1,8 +1,6 @@
 # Benvenuti! Welcome!
 
-Benvenuti in pensierodigitale!  
-
-:it: Per la versione italiana, cliccate [qui](#italiano).
+Benvenuti in pensierodigitale! :it: Per la versione italiana, cliccate [qui](#italiano).
 
 :seedling:Thank you for visiting the **pensierodigitale** project. We are happy you are here :seedling:
 
