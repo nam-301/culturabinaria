@@ -1,8 +1,6 @@
 # Benvenuti! Welcome!
 
-Benvenuti in **pensierodigitale**.
-
-:it:Per la versione italiana, cliccate qui.:it:
+Benvenuti in **pensierodigitale**! :it:Per la versione italiana, cliccate [qui](#italiano) :it:
 
 :seedling: Thank you for visiting the **pensierodigitale** project. We are happy you are here :seedling:
 
@@ -10,12 +8,12 @@ Benvenuti in **pensierodigitale**.
 
 The following text (which is a README file) gives some information about the project.
 
-[* Who are we?](#who-are-we) <br />
-[* What are we doing?](#what-are-we-doing) <br />
-[* What is non-formal education?](#what-is-non-formal-education) <br />
-[* What is this place?](#what-is-this-place) <br />
-[* How can you get involved?](#how-can-you-get-involved) <br />
-[* Get in touch](#get-in-touch) <br />
+* [Who are we?](#who-are-we) <br />
+* [What are we doing?](#what-are-we-doing) <br />
+* [What is non-formal education?](#what-is-non-formal-education) <br />
+* [What is this place?](#what-is-this-place) <br />
+* [How can you get involved?](#how-can-you-get-involved) <br />
+* [Get in touch](#get-in-touch) <br />
 
 
 # Who are we?
@@ -54,9 +52,11 @@ You will find an example of the type of subjects the materials should address he
 
 [Here](https://github.com/nam-301/digital-literacy/wiki/Info-per-gli-insegnanti-e-i-tutor) you can find instructions on how to contribute to this repository.
 
-⋅⋅* Get in touch
+# Get in touch
 
 For info, contact [@martina_puppi](https://twitter.com/martina_puppi)
 
 Also: this project is currently participating in the [Mozilla Open Leaders](https://medium.com/read-write-participate/meet-our-next-cohort-of-open-leaders-ebc8dadb2e53) program.
+
+# Italiano
 
