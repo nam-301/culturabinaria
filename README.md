@@ -54,9 +54,10 @@ We are looking for teachers or tech entusiasts who are willing to create teachin
 
 You will find a LIST of the materials we need here.
 
+Example: create an activity for teaching what a browser is (a kind of software (assuming we've covered what software is in a previous lesson), there are many browsers out there (for example Firefox, Chrome, Safari ..) that do one and the same thing (i.e. enablig you to surf the Internet?))
+
 ## How can you get involved?
 
-(An example is: how do I teach my class that a browser is a kind of software (we've covered what software is in a previous lesson) and that there are many browsers out there (for example Firefox, Chrome, Safari ..) that do one and the same thing (i.e. enablig you to surf the Internet?)
 
 [Here](https://github.com/nam-301/digital-literacy/wiki/Info-per-gli-insegnanti-e-i-tutor) you can find instructions on how to contribute to this repository.
 
