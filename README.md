@@ -14,9 +14,9 @@ The following text (which is a README file) gives some information about the pro
 * [What are we doing?](#what-are-we-doing) <br />
 * [What is non-formal education?](#what-is-non-formal-education) <br />
 * [What is this place?](#what-is-this-place) <br />
+* [What do we need?](#what-do-we-need) <br />
 * [How can you get involved?](#how-can-you-get-involved) <br />
 * [Get in touch](#get-in-touch) <br />
-
 
 # Who are we?
 
@@ -42,13 +42,19 @@ Our digital skills courses are based on this principles.
 
 This place is a **repository** (it is a bit like a shared folder everyone can contribute to and download the materials from) that contains curricula, syllabi and especially materials to do classroom activities of an ongoing digital literacy course for **low-educated asylum seekers and migrants**.
 
+It is intended for:
+
+* sharing the effort of creating teaching materials
+
+* helping other teachers who may reuse the materials that they will find here.
+
+# What do we need?
+
+We are looking for teachers or tech entusiasts who are willing to create teaching materials and put them online.
+
+You will find a LIST of the materials we need here.
+
 # How can you get involved?
-
-It is a lot of work to come up with new teaching materials and to make them!
-
-We are looking for teachers or tech entusiasts who are willing to create simple materials and put them online.
-
-You will find an example of the type of subjects the materials should address here
 
 (An example is: how do I teach my class that a browser is a kind of software (we've covered what software is in a previous lesson) and that there are many browsers out there (for example Firefox, Chrome, Safari ..) that do one and the same thing (i.e. enablig you to surf the Internet?)
 
