@@ -2,11 +2,11 @@
 
 Benvenuti in pensierodigitale! :it: Per la versione italiana, cliccate [qui](#italiano).
 
-:seedling:Thank you for visiting the **pensierodigitale** project. We are happy you are here :seedling:
+:seedling: Thank you for visiting the **pensierodigitale** project. We are happy you are here :seedling:
 
-**Pensierodigitale** is a made-up Italian word that can be roughly be translated as "digital thinking".
+**Pensierodigitale** is a made-up Italian word that can be roughly be translated as "digital thinking". 
 
-The following text (which is a README file) gives some information about the project.
+Here you can find some information about the project. Scroll down or click one of the titles below! 
 
 * [Who are we?](#who-are-we) <br />
 * [What are we doing?](#what-are-we-doing) <br />
@@ -18,27 +18,29 @@ The following text (which is a README file) gives some information about the pro
 
 ## Who are we?
 
-We are an informal group of people, based in a small mountain town in northern Italy, who are passionate about everything digital and who think it is important that access to the digital world does not remain a privilege of a few people.
+We are an informal group of people—physically based in a small mountain town in northern Italy—who are passionate about everything digital and who think it is important that access to the digital world does not remain a privilege of a few people.
 
-In our town, in recent years, we have seen the arrival of many migrants (mainly from Africa and Asia) who were escaping violence and poverty. Now, they are trying to begin a new life in Italy, getting an education if they need to and looking for jobs.
+In our town, in recent years, we have seen the arrival of many migrants (mainly from West Africa and South Asia) who were escaping violence and poverty. Now they are trying to begin a new life in Italy, getting an education if they need to, and looking for jobs.
 
-Most of them come from deprived backgrounds and received little or no formal education. But it's hard to find a job if you don't have the skills! So, starting from this consideration, we decided to help them gain some digital skills (e.g. how to use a word processor, how to navigate the Internet and do an effective search, how to send files ..)
+Most of the migrants come from deprived backgrounds and received little or no formal education. But it's hard to find a job with no education and no immediately spendable skills! Starting from this consideration, we decided to help them gain some basic digital skills (for example: how to use a word processor, how to do an effective search on the Internet, how to exhange files .. )
 
 ## What are we doing?
 
-We are organizing digital skills courses for low-educated migrants who recently arrived in our community (in Italy).
+We are organizing digital skills courses for low-educated migrants who recently arrived in our community, in northern Italy.
 
 Various editions of the course have been carried out since 2016, but this is the first time we, the teachers, try to **systematise and share** the materials we use.
 
+We are now **collecting teaching materials** that we can re-use in our own course and that other teachers can use in theirs, wherever they are.
+
 ## What is non-formal education?
 
-Basically, it is a way of teaching that does not require the teacher to stand in front of the class and give a lecture, but that rather involves a lot of practical activities that require the students to do, act, moving around, play games in team .. In this way, it is much easier to overcome lanaguge and cultural barriers and the students learn much more!
+Non-formal education is (roughly) a way of teaching that does not require the teacher to stand in front of the class and give a lecture, but that rather involves the students in a lot of practical activities: act, move around, play games in teams, draw, tell stories .. In this way, not only it is much easier to overcome languge and cultural barriers, but the students learn much more and have fun doint it!
 
-Our digital skills courses are based on this principles.
+Our digital skills courses are based on this principles, because we observed that such non-formal methods are the most effective with our students (migrants who received little or no formal education).
 
 ## What is this place?
 
-This place is a **repository** (it is a bit like a shared folder everyone can contribute to and download the materials from) that contains curricula, syllabi and especially materials to do classroom activities of an ongoing digital literacy course for **low-educated asylum seekers and migrants**.
+This place is a **repository** (it is a bit like a shared folder everyone can contribute to *and* download the materials from) that contains curricula, syllabi and especially **materials for practical classroom activities** of an ongoing digital literacy course for **low-educated migrants**.
 
 It is intended for:
 
@@ -48,22 +50,29 @@ It is intended for:
 
 ## What do we need?
 
-We are looking for teachers or tech entusiasts who are willing to create teaching materials and put them online.
+:loudspeaker: We are looking for people who can help us create more teaching materials and improve the curriculm!
 
-You will find a LIST of the materials we need here.
+So if you are:
 
-Example: create an activity for teaching what a browser is (a kind of software (assuming we've covered what software is in a previous lesson), there are many browsers out there (for example Firefox, Chrome, Safari ..) that do one and the same thing (i.e. enablig you to surf the Internet?))
+* a teacher with interest and/or expertise in non-formal education methods and/or in teaching to migrants;
+* an expert in educational technology; 
+* a developer/computer scientist/any kind of IT-related professional interested in having a real-world impact besides you daily job ..
+
+... we'd love to see your contribution here!
+
+You will find a list of the materials we currently need here. [add link]
 
 ## How can you get involved?
 
+Pick an issue, create the materials, and upload them!
 
-[Here](https://github.com/nam-301/digital-literacy/wiki/Info-per-gli-insegnanti-e-i-tutor) you can find instructions on how to contribute to this repository.
+[Here](https://github.com/nam-301/digital-literacy/wiki/Info-per-gli-insegnanti-e-i-tutor) you can find instructions on how to upload your materials.
 
 ## Get in touch
 
-For info, contact [@martina_puppi](https://twitter.com/martina_puppi)
+For any further info, you can contact [@martina_puppi](https://twitter.com/martina_puppi), the creator of this repository.
 
-Also: this project is currently participating in the [Mozilla Open Leaders](https://medium.com/read-write-participate/meet-our-next-cohort-of-open-leaders-ebc8dadb2e53) program.
+This project is currently participating in the [Mozilla Open Leaders](https://medium.com/read-write-participate/meet-our-next-cohort-of-open-leaders-ebc8dadb2e53) program.
 
 # Italiano
 
