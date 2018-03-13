@@ -30,16 +30,22 @@ Attività: le stesse del corso avanzato che trovate [qui](corso-avanzato/lez1/at
 ## LEZIONE 4
 * Impariamo ad accendere il PC e a digitare la password!
 * Continuazione Tastiera [(slides)](lez4/tastiera2.pptx): ripasso lezione precedente (con esercizi di ripasso) e nuovi argomenti: la punteggiatura e gli spazi dopo di essa; esercizi.
-* Il mouse
+* Il mouse: i tutor aprono i browser e vanno su [questo](http://mouseprogram.com/practice.html) sito. I ragazzi fanno gli esercizi.
 
 ## LEZIONE 5
-* Uso del tastiera e mouse il più possibile: si impara ad APRIRE WORD.
+* I simboli visivi del sistema operativo.
+* Si impara ad APRIRE WORD.
 
 ## LEZIONE 6
+* Cosa sono i files?
+* Si impara a salvare un file.
 
 ## LEZIONE 7
+* Gioco: [INTERNET!](https://github.com/nam-301/pensierodigitale/issues/6)
 
 ## LEZIONE 8
+* Che cos'è un link.
+* Come fare una ricerca su Internet.
 
 ## LEZIONE 9
 
