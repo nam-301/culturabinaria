@@ -75,4 +75,5 @@ For any further info, you can contact [@martina_puppi](https://twitter.com/marti
 This project is currently participating in the [Mozilla Open Leaders](https://medium.com/read-write-participate/meet-our-next-cohort-of-open-leaders-ebc8dadb2e53) program.
 
 # Italiano
+... TBA
 
