@@ -76,11 +76,9 @@ This project is currently participating in the [Mozilla Open Leaders](https://me
 
 # Italiano
 
-Benvenuti in pensierodigitale!
+Benvenuti in pensierodigitale! 🌱 Grazie della visita 🌱
 
-🌱 Siamo felici che siate qui 🌱
-
-Qui puoi trovare alcune informazioni sul progetto. Scorri verso il basso o clicca su uno dei titoli sottostanti!
+Qui potete trovare alcune informazioni sul progetto. Scorrete giù o cliccate su uno dei titoli qui sotto!
 
   * [Chi siamo?](#chi-siamo)
   * [Cosa facciamo?](#cosa-facciamo)
@@ -90,7 +88,7 @@ Qui puoi trovare alcune informazioni sul progetto. Scorri verso il basso o clicc
   * [Come partecipare](#come-partecipare)
   * [Contattaci](#contattaci)
 
-**Chi siamo?**
+## Chi siamo?
 
 Siamo un gruppo informale di persone - fisicamente facciamo base in una piccola città di montagna nel nord Italia - appassionati di tutto ciò che è digitale e convinti che sia importante che l'accesso al mondo digitale non rimanga un privilegio di poche persone.
 
@@ -98,7 +96,7 @@ Nella nostra città, negli ultimi anni, abbiamo visto l'arrivo di molti migranti
 
 La maggior parte dei migranti proviene da ambienti svantaggiati e ha ricevuto poca o nessuna istruzione formale. Ma è difficile trovare un lavoro senza istruzione e senza competenze immediatamente spendibili! Partendo da questa considerazione, abbiamo deciso di aiutarli ad acquisire alcune competenze digitali di base (ad esempio: come usare un programma di scrittura, come fare una ricerca efficace su Internet, come scambiare file ..)
 
-**Che cosa facciamo?**
+## Che cosa facciamo?
 
 Organizziamo corsi di *digital skills* per immigrati nella nostra comunità, nel nord Italia, e che non hanno ricevuto un'istruzione in quest'ambito.
 
@@ -106,13 +104,13 @@ A partire dal 2016 sono state realizzate varie edizioni del corso, ma questa è 
 
 Stiamo raccogliendo materiali didattici da poter riutilizzare nel nostro stesso corso e che altri insegnanti possono usare nel loro, ovunque si trovino.
 
-**Che cos'è l'educazione non-formale?**
+## Che cos'è l'educazione non-formale?
 
 L'educazione non formale è (più o meno) un modo di insegnare che non richiede all'insegnante di stare di fronte alla classe e di tenere una lezione, ma che piuttosto coinvolge gli studenti in molte attività pratiche: agire, muoversi, giocare in team, disegnare, raccontare storie .. In questo modo, non solo è molto più facile superare le barriere linguistiche e culturali, ma gli studenti imparano molto di più e si divertono a farlo!
 
 I nostri corsi sulle competenze digitali si basano su questi principi, perché abbiamo osservato che questi metodi non formali sono i più efficaci con i nostri studenti (migranti che hanno ricevuto poca o nessuna istruzione formale).
 
-**Che cos'è questo posto?**
+## Che cos'è questo posto?
 
 Questo posto è un *repository* (è un po' come una cartella condivisa a cui tutti possono contribuire e da cui tutti possono scaricare i materiali) che contiene curricula, programmi e soprattutto materiali per attività pratiche in aula da svolgersi nell'ambito di un corso di alfabetizzazione digitale per migranti con istruzione bassa.
 
@@ -121,7 +119,7 @@ E' stato creato per:
 * condividere lo sforzo di creare materiali didattici 
 * aiutare altri insegnanti che possono riutilizzare i materiali disponibili qui. 
 
-**Di che cosa abbiamo bisogno?**
+## Di che cosa abbiamo bisogno?
 
 📢 Cerchiamo persone che vogliano aiutarci a creare nuovi materiali didattici e a migliorare questi curricula!
 
@@ -135,13 +133,13 @@ Quindi, se sei:
 
 La lista dei materiali dei quali abbiamo bisogno, è disponibile qui. (add link)
 
-**Come partecipare**
+## Come partecipare
 
 Scegli una *issue*, crea i materiali, e caricali qui!
 
 Qui trovi le istruzioni su come fare a caricarli 
 
-**Contattaci**
+## Contattaci
 
 Per qualsiasi altra informazione, puoi scrivere a [@martina_puppi](https://twitter.com/martina_puppi), la creatrice di questo repository.
 
