@@ -4,8 +4,6 @@
 
 :it: Per la versione italiana, cliccate [qui](#italiano).
 
-**Pensierodigitale** is a made-up Italian word that can be roughly be translated as "digital thinking". 
-
 Here you can find some information about the project. Scroll down or click one of the titles below! 
 
 * [Who are we?](#who-are-we) <br />
