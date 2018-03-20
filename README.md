@@ -1,6 +1,6 @@
 # Benvenuti! Welcome!
 
-:seedling: Thank you for visiting the **pensierodigitale** project. We are happy you are here :seedling:
+:seedling: Thank you for visiting **Cultura Binaria**. We are happy you are here :seedling:
 
 :it: Per la versione italiana, cliccate [qui](#italiano).
 
@@ -76,7 +76,7 @@ This project is currently participating in the [Mozilla Open Leaders](https://me
 
 # Italiano
 
-Benvenuti in pensierodigitale! 🌱 Grazie della visita 🌱
+Benvenuti in **Cultura Binaria**!
 
 Qui potete trovare alcune informazioni sul progetto. Scorrete giù o cliccate su uno dei titoli qui sotto!
 
