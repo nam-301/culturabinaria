@@ -133,9 +133,9 @@ La lista dei materiali dei quali abbiamo bisogno, è disponibile qui. (add link)
 
 ## Come partecipare
 
-Scegli una *issue*, crea i materiali, e caricali qui!
+Scegli una [issue](https://github.com/nam-301/culturabinaria/issues), crea i materiali, e caricali qui!
 
-Qui trovi le istruzioni su come fare a caricarli 
+[Qui](https://github.com/nam-301/culturabinaria/wiki) trovi le istruzioni su come fare a caricarli 
 
 ## Contattaci
 
