@@ -41,25 +41,23 @@ Presentazioni e giochi di ice-breaker.
 
 ## LEZIONE 4
 
-* Operazioni con i files: taglia, copia, incolla. [Slides](lez04/taglia-copia-incolla.pptx) con la spiegazione.
+* Operazioni con i files: taglia, copia, incolla. Qui ci sono le [slides](lez04/taglia-copia-incolla.pptx) con la spiegazione.
 
-**Attività**: Esercizi sullo spostare, copiare, incollare un file.
+**Attività**: [Esercizio](descrizione-esercizio-taglia-copia-incolla.md) sullo spostare, copiare, incollare un file.
 
 ## LEZIONE 5
-**Attività 10**: Chiedere a tutti di scrivere su un foglio di carta cosa vorrebbero imparare nel resto del corso, adesso che hanno un po' capito di cosa si tratta. Dividere la lavagna in due parti: una parte si chiamerà "Che cosa abbiamo imparato". Lì l'insegnante scriverà, con l'aiuto dei ragazzi, tutti gli argomenti già visti (hardware, sistema operativo, file, percorso ..); l'altra parte si chiamerà "Che cosa vogliamo imparare", chiedere ai ragazzi di attaccare lì i loro fogli. Discuterne con loro.
+**Attività**: Chiedere a tutti di scrivere su un foglio di carta cosa vorrebbero imparare nel resto del corso, adesso che hanno un po' capito di cosa si tratta. Dividere la lavagna in due parti: una parte si chiamerà "Che cosa abbiamo imparato". Lì l'insegnante scriverà, con l'aiuto dei ragazzi, tutti gli argomenti già visti (hardware, sistema operativo, file, percorso ..); l'altra parte si chiamerà "Che cosa vogliamo imparare", chiedere ai ragazzi di attaccare lì i loro fogli. Discuterne con loro.
 
 * Word: formattazione di un testo.
 
 **Attività 11**: ognuno al proprio PC riproduce delle frasi che l'insegnante proietta in Word (grassetto, corsivo, sottolineato, testo di grandezza differenze ..)
 
 ## LEZIONE 6
-* Proprietà di un file (come accedere e interpretarle.)
+* Proprietà e grandezza di un file (come accedere e come interpretarle.) [Slides](lez06/proprieta-file.pptx)
 
-**Attività 12**: *Da fare**
+**Attività**: Gioco [file properties](lez06/descrizione-gioco-file-properties.md)
 
-* Grandezza dei file.
-
-**Attività 13**: **Da fare** sulle linee di: chiedere a ciascuno quanto pensano sia grande un dato file (una canzone sul loro smartphone, una foto, un video ..)
+**Attività**: Gioco [file size](lez06/descrizione-gioco-file-size.md) 
 
 ## LEZIONE 7
 * Internet: cos'è un browser, cos'è un URL, cos'è un link.
