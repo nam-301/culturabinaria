@@ -7,11 +7,11 @@ Presentazioni e giochi di ice-breaker.
 
 **Attività**: 
 
-[Ci conosciamo con le foto](lez1/attività-lez1.md)
+[Ci conosciamo con le foto](lez01/attività-lez1.md)
 
-[Imparare & Bisogni](lez1/attività-lez1.md)
+[Imparare & Bisogni](lez01/attività-lez1.md)
 
-[Da dove veniamo](lez1/attività-lez1.md)
+[Da dove veniamo](lez01/attività-lez1.md)
 
 * Presentazione del corso. 
 
@@ -19,13 +19,13 @@ Presentazioni e giochi di ice-breaker.
 
 * Com'è sono fatti dentro i PC e gli smartphones: le componenti hardware e la differenza con il software.
 
-**Attività**: Smontiamo un PC e uno smartphone + [Quiz](lez2/quiz-hardware-lez2.md)
+**Attività**: Smontiamo un PC e uno smartphone + [Quiz](lez02/quiz-hardware-lez2.md)
 
-[Slides]((lez2/hardware-and-software.pdf)) con le parole da imparare.
+[Slides](lez02/hardware-and-software.pdf) con le parole da imparare.
 
 * Spiegazione: il concetto di file (collegarlo immediatamente con spiegazione memoria!) 
 
-**Attività**: [Gioco "File o cartella?"](lez2/file-vs-cartelle)
+**Attività**: Gioco ["File o cartella?"](lez02/file-vs-cartelle)
 
 ## LEZIONE 3
 
@@ -33,13 +33,13 @@ Presentazioni e giochi di ice-breaker.
 
 **Attività**: **Da fare**. Come spiegare loro il concetto di sistema operativo, e il fatto che ce ne sono diversi? (Linux, Mac, Windows)
 
-Se servono, qui ci sono delle [slides]((lez3/interfaccia-utente-sistema-operativo.pdf)) con immagini dell'interfaccia utente dei diversi sistemi operativi
+Se servono, qui ci sono delle [slides]((lez03/interfaccia-utente-sistema-operativo.pdf)) con immagini dell'interfaccia utente dei diversi sistemi operativi
 
-**Attività**: mostrare ad una ad una queste [immagini](lez3/quiz-lez3.pptx). Chiedere agli studenti (a uno a uno, dai loro banchi) di dire se l'immagine è un file / è una cartella / è un software / è una componente hardware.
+**Attività**: mostrare ad una ad una queste [immagini](lez03/quiz-lez3.pptx). Chiedere agli studenti (a uno a uno, dai loro banchi) di dire se l'immagine è un file / è una cartella / è un software / è una componente hardware.
 
-* Concetto di file, file manager, file system, percorso. [Qui](lez3/spiegazione-path.pptx) ci sono delle slides.
+* Concetto di file, file manager, file system, percorso. [Qui](lez03/spiegazione-path.pptx) ci sono delle slides.
 
-**Attività**: Gioco ["costruiamo il percorso"](lez3/costruisci-il-percorso)
+**Attività**: Gioco ["costruiamo il percorso"](lez03/costruisci-il-percorso)
 
 
 ## LEZIONE 4
