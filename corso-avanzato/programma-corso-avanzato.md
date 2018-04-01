@@ -27,7 +27,6 @@ Presentazioni e giochi di ice-breaker.
 
 **Attività**: [Gioco "File o cartella?"](lez2/file-vs-cartelle)
 
-
 ## LEZIONE 3
 
 * Concetto sistema operativo.
