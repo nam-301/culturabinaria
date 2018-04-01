@@ -58,7 +58,7 @@ So if you are:
 
 ... we'd love to see your contribution here!
 
-You will find a list of the materials we currently need here. [add link]
+You will find a list of the materials we currently need [here](https://github.com/nam-301/culturabinaria/issues) (in Italian).
 
 ## How can you get involved?
 
@@ -133,7 +133,7 @@ La lista dei materiali dei quali abbiamo bisogno, è disponibile qui. (add link)
 
 ## Come partecipare
 
-Scegli una [issue](https://github.com/nam-301/culturabinaria/issues), crea i materiali, e caricali qui!
+Scegli una [issue](https://github.com/nam-301/culturabinaria/issues), crea i materiali, e caricali nella cartella corrispondente.
 
 [Qui](https://github.com/nam-301/culturabinaria/wiki) trovi le istruzioni su come fare a caricarli 
 
