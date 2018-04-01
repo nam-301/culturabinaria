@@ -13,12 +13,15 @@ Presentazioni e giochi di ice-breaker.
 
 [Da dove veniamo](lez1/attività-lez1.md)
 
-## LEZIONE 2
 * Presentazione del corso. 
 
-* Com'è sono fatti dentro i PC e gli smartphones: le componenti hardware
+## LEZIONE 2
 
-**Attività**: Smontiamo un PC e uno smartphone + [Quiz](lez2/quiz-hardware-lez2.md.md)
+* Com'è sono fatti dentro i PC e gli smartphones: le componenti hardware e la differenza con il software.
+
+**Attività**: Smontiamo un PC e uno smartphone + [Quiz](lez2/quiz-hardware-lez2.md)
+
+[Slides]((lez2/hardware-and-software.pdf)) con le parole da imparare.
 
 * Spiegazione: il concetto di file (collegarlo immediatamente con spiegazione memoria!) 
 
