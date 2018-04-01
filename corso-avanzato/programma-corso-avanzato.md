@@ -25,25 +25,30 @@ Presentazioni e giochi di ice-breaker.
 
 * Spiegazione: il concetto di file (collegarlo immediatamente con spiegazione memoria!) 
 
-**Attività 3**: [File vs cartelle](lez2/file-vs-cartelle)
+**Attività**: [Gioco "File o cartella?"](lez2/file-vs-cartelle)
 
 
 ## LEZIONE 3
 
 * Concetto sistema operativo.
 
-**Attività 6**: **Da fare**. Come spiegare loro il concetto di sistema operativo, e il fatto che ce ne sono diversi? (Linux, Mac, Windows)
+**Attività**: **Da fare**. Come spiegare loro il concetto di sistema operativo, e il fatto che ce ne sono diversi? (Linux, Mac, Windows)
 
-* Concetto di file, file manager, file system, percorso.
+Se servono, qui ci sono delle [slides]((lez3/interfaccia-utente-sistema-operativo.pdf)) con immagini dell'interfaccia utente dei diversi sistemi operativi
 
-**Attività 7**: **Da fare** esercizi (scritti su un foglio così che i ragazzi possano seguirli in maniera indipendente? I tutor girano tra i banchi e aiutano) per muoversi nel file system e manipolare un file (taglia, copia, incolla) usando il mouse (tasto destro, tasto sinistro, selezionare).
+**Attività**: mostrare ad una ad una queste [immagini](lez3/quiz-lez3.pptx). Chiedere agli studenti (a uno a uno, dai loro banchi) di dire se l'immagine è un file / è una cartella / è un software / è una componente hardware.
+
+* Concetto di file, file manager, file system, percorso. [Qui](lez3/spiegazione-path.pptx) ci sono delle slides.
+
+**Attività**: Gioco ["costruiamo il percorso"](lez3/costruisci-il-percorso)
+
 
 ## LEZIONE 4
-**Attività 8**: mostrare immagini sulle slides (vedi ppt "Attività 8".) Chiedere a uno a uno di dire se: è un file / è una cartella / è un software / è un pezzo di hardware.
 
 * Continuare con il concetto di file, file manager, file system in combinazione con il mouse.
 
-**Attività 9**: stampare e ritagliare i materiali sotto la cartella “Costruisci il percorso”. Formare una squadra per percorso; ogni squadra deve ricostruire il percorso alla lavagna.
+**Attività**: **Da fare** esercizi (scritti su un foglio così che i ragazzi possano seguirli in maniera indipendente? I tutor girano tra i banchi e aiutano) per muoversi nel file system e manipolare un file (taglia, copia, incolla) usando il mouse (tasto destro, tasto sinistro, selezionare).
+
 
 ## LEZIONE 5
 **Attività 10**: Chiedere a tutti di scrivere su un foglio di carta cosa vorrebbero imparare nel resto del corso, adesso che hanno un po' capito di cosa si tratta. Dividere la lavagna in due parti: una parte si chiamerà "Che cosa abbiamo imparato". Lì l'insegnante scriverà, con l'aiuto dei ragazzi, tutti gli argomenti già visti (hardware, sistema operativo, file, percorso ..); l'altra parte si chiamerà "Che cosa vogliamo imparare", chiedere ai ragazzi di attaccare lì i loro fogli. Discuterne con loro.
