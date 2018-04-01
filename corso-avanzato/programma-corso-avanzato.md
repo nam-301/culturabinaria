@@ -60,21 +60,27 @@ Presentazioni e giochi di ice-breaker.
 **Attività**: Gioco [file size](lez06/descrizione-gioco-file-size.md) 
 
 ## LEZIONE 7
-* Internet: cos'è un browser, cos'è un URL, cos'è un link.
+* Internet! 
+
+* Come funziona internet: [slides](lez07/howInternetWorks.pptx).
+
+* Cos'è un browser, cos'è un URL, cos'è un link.
 
 **Attività 14**: **Da fare** (Differenza tra URL bar e search bars, come fare una ricerca efficiente su un motore di ricerca, come riconoscere le pubblicità che vengono prima nei risultati di una ricerca ..)
 
 ## LEZIONE 8
-* Webmail: elementi di un messaggio di posta elettronica. 
+* Accounts [slides](lez08/esempi-accounts.pdf)
 
-Apriamo un accoun Gmail a chi non ha un indirizzo mail.
+* Webmail: elementi di un messaggio di posta elettronica. [Spiegazione grafica](lez08/webmail.pdf) e spiegazione [dominio](lez08/email.pptx)
+
+* Apriamo un account Gmail a chi non ha un indirizzo mail.
 
 **Attività 15**: **Da pensare/organizzare meglio** far mandare mail diverse (differenza tra "rispondi", "rispondi a tutti", "inoltra", inserire un allegato ..)
 
 ## LEZIONE 9
 * Continuare con webmail: elementi di un messaggio di posta elettronica. Gli elementi di un messaggio per inviare una candidatura di lavoro (vedi nella cartella di questa lezione.)
 
-**Attività 16**: Tutti scrivono una mail "finta" (la mandano all'insegnante) modificando con i loro dati personali il template del testo candidatura di lavoro.
+**Attività**: Scriviamo una mail con una candidatura di lavoro. 
 
 ## LEZIONE 10
 * Sicurezza in internet: spiegazione di password sicura.
