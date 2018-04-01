@@ -19,7 +19,7 @@ Presentazioni e giochi di ice-breaker.
 
 * Com'è sono fatti dentro i PC e gli smartphones: le componenti hardware e la differenza con il software.
 
-**Attività**: Smontiamo un PC e uno smartphone + [Quiz](lez02/quiz-hardware-lez2.md)
+**Attività**: Si smonta un PC e uno smartphone, poi si fa un [quiz](lez02/quiz-hardware-lez2.md) con le parole imparate.
 
 [Slides](lez02/hardware-and-software.pdf) con le parole da imparare.
 
@@ -31,9 +31,7 @@ Presentazioni e giochi di ice-breaker.
 
 * Concetto sistema operativo.
 
-**Attività**: **Da fare**. Come spiegare loro il concetto di sistema operativo, e il fatto che ce ne sono diversi? (Linux, Mac, Windows)
-
-Se servono, qui ci sono delle [slides]((lez03/interfaccia-utente-sistema-operativo.pdf)) con immagini dell'interfaccia utente dei diversi sistemi operativi
+**Attività**: **Da fare**. Come spiegare loro il concetto di sistema operativo, e il fatto che ce ne sono diversi? (Linux, Mac, Windows). Qui ci sono delle [slides](lez03/interfaccia-utente-sistema-operativo.pdf) con immagini dell'interfaccia utente dei diversi sistemi operativi
 
 **Attività**: mostrare ad una ad una queste [immagini](lez03/quiz-lez3.pptx). Chiedere agli studenti (a uno a uno, dai loro banchi) di dire se l'immagine è un file / è una cartella / è un software / è una componente hardware.
 
@@ -41,13 +39,11 @@ Se servono, qui ci sono delle [slides]((lez03/interfaccia-utente-sistema-operati
 
 **Attività**: Gioco ["costruiamo il percorso"](lez03/costruisci-il-percorso)
 
-
 ## LEZIONE 4
 
-* Continuare con il concetto di file, file manager, file system in combinazione con il mouse.
+* Operazioni con i files: taglia, copia, incolla. [Slides](lez04/taglia-copia-incolla.pptx) con la spiegazione.
 
-**Attività**: **Da fare** esercizi (scritti su un foglio così che i ragazzi possano seguirli in maniera indipendente? I tutor girano tra i banchi e aiutano) per muoversi nel file system e manipolare un file (taglia, copia, incolla) usando il mouse (tasto destro, tasto sinistro, selezionare).
-
+**Attività**: Esercizi sullo spostare, copiare, incollare un file.
 
 ## LEZIONE 5
 **Attività 10**: Chiedere a tutti di scrivere su un foglio di carta cosa vorrebbero imparare nel resto del corso, adesso che hanno un po' capito di cosa si tratta. Dividere la lavagna in due parti: una parte si chiamerà "Che cosa abbiamo imparato". Lì l'insegnante scriverà, con l'aiuto dei ragazzi, tutti gli argomenti già visti (hardware, sistema operativo, file, percorso ..); l'altra parte si chiamerà "Che cosa vogliamo imparare", chiedere ai ragazzi di attaccare lì i loro fogli. Discuterne con loro.
