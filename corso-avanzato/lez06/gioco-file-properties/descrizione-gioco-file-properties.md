@@ -1,9 +1,10 @@
-Distribuire una flash-card per ogni studente.
+Tutti gli studenti sono in piedi. L'insegnante distribuisce una flash-card per ogni studente.
 
-Tutti sono in piedi.
+Gli studenti devono raggrupparsi nello spazio seguendo la consegna che l'insegnante dirà ad alta voce, a seconda della caratteristica del file che hanno in mano.
 
-Devono raggrupparsi a seconda della caratteristica del file che dice l'insegnante.
+Consegne:
 
-Caratteristiche:
-* tutti i file di musica
-* tutti i file più grandi di ...
+* .. disporsi dal file più grande al file più piccolo.
+* .. disporsi per data di creazione, dalla più vecchia alla più recente.
+* .. disporsi per data di modifica, dalla più vecchia alla più recente.
+* .. disporsi per file più nested al file meno nested (guardando il percorso.)
