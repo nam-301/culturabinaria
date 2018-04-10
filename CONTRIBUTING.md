@@ -12,6 +12,7 @@ The following is a set of guidelines for contributing to Culturabinaria.
 * [What is this website?](#what-is-this-website) <br />
 * [How can I contribute?](#how-can-I-contribute) <br />
 * [It's too hard, can't I just send you the files?](#it-s-too-hard-can-t-I-just-send-you-the-files) <br />
+* [I don't have any material to add but I have comments/ideas on how you could improve the curriculum.](#I-don-t-have-any-material-to-add but-I-have-comments-ideas-on-how-you-could-improve-the-curriculum) <br />
 * [Styleguide](#Styleguide) <br />
 
 ## What should I know before I get started?
