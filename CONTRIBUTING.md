@@ -1,8 +1,8 @@
 # Contributing to Culturabinaria
 
-Per la traduzione italiana, cliccare qui
+:it: Per la traduzione italiana, cliccare [qui]
 
-First of all: thank you for taking the time to contribute!
+ :sparkles: First of all: thank you for taking the time to contribute!  :sparkles:
 
 The following is a set of guidelines for contributing to Culturabinaria.
 
@@ -23,7 +23,7 @@ To know more about the project, go [here](https://github.com/nam-301/culturabina
 ## What is this website?
 Github is a website that offers a platform that makes it easy when several people have to collaborate on the same thing -- in our case, people creating materials for a basic digital skills course.
 
-(Github is based on a software called Git, but that's too long a story for now :-))
+(Github is based on a software called Git, but that's too long a story for now :relaxed:)
 
 In order to contribute to this project, you have to create an account on GitHub first.
 
