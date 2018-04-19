@@ -4,7 +4,7 @@
 
 :it: Per la versione italiana, cliccate [qui](#italiano).
 
-Here you can find some information about the project. Scroll down or click one of the titles below! 
+Here you can find some information about the project. Scroll down or click one of the titles below!
 
 * [Who are we?](#who-are-we) <br />
 * [What are we doing?](#what-are-we-doing) <br />
@@ -12,6 +12,7 @@ Here you can find some information about the project. Scroll down or click one o
 * [What is this place?](#what-is-this-place) <br />
 * [What do we need?](#what-do-we-need) <br />
 * [How can you get involved?](#how-can-you-get-involved) <br />
+* [How can you download our materials?] (#how-can-you-download-our-materials) <br />
 * [Get in touch](#get-in-touch) <br />
 
 ## Who are we?
@@ -20,7 +21,7 @@ We are an informal group of people—physically based in a small mountain town i
 
 In our town, in recent years, we have seen the arrival of many migrants (mainly from West Africa and South Asia) who were escaping violence and poverty. Now they are trying to begin a new life in Italy, getting an education if they need to, and looking for jobs.
 
-Most of the migrants come from deprived backgrounds and received little or no formal education. But it's hard to find a job with no education and no immediately spendable skills! Starting from this consideration, we decided to help them gain some basic digital skills (for example: how to use a word processor, how to do an effective search on the Internet, how to exhange files .. )
+Most of the migrants come from deprived backgrounds and received little or no formal education. But it's hard to find a job with no education and no immediately applicable skills! Starting from this consideration, we decided to help them gain some basic digital skills (for example: how to use a word processor, how to do an effective search on the Internet, how to exhange files .. )
 
 ## What are we doing?
 
@@ -53,7 +54,7 @@ It is intended for:
 So if you are:
 
 * a teacher with interest and/or expertise in non-formal education methods and/or in teaching to migrants;
-* an expert in educational technology; 
+* an expert in educational technology;
 * a developer/computer scientist/any kind of IT-related professional interested in having a real-world impact besides you daily job ..
 
 ... we'd love to see your contribution here!
@@ -65,6 +66,10 @@ You will find a list of the materials we currently need [here](https://github.co
 Pick an issue, create the materials, and upload them!
 
 [Here](https://github.com/nam-301/digital-literacy/wiki/Info-per-gli-insegnanti-e-i-tutor) you can find instructions on how to upload your materials.
+
+## How can you download our materials?
+
+It's easy! Just navigate until the file that interests you the most (for example, the entire Lesson 02 of the intermediate level, which is dedicated to file management), then do right-click, select "Save link as" and save it on your preferred location on you computer.
 
 ## Get in touch
 
@@ -84,6 +89,7 @@ Qui potete trovare alcune informazioni sul progetto. Scorrete giù o cliccate su
   * [Che cos'è questo posto?](#che-cos-e-questo-posto)
   * [Di che cosa abbiamo bisogno?](#di-che-cosa-abbiamo-bisogno)
   * [Come partecipare](#come-partecipare)
+  * [Come scaricare i materiali] (#Come-scaricare-i-materiali)
   * [Contattaci](#contattaci)
 
 ## Chi siamo?
@@ -112,10 +118,10 @@ I nostri corsi sulle competenze digitali si basano su questi principi, perché a
 
 Questo posto è un *repository* (è un po' come una cartella condivisa a cui tutti possono contribuire e da cui tutti possono scaricare i materiali) che contiene curricula, programmi e soprattutto materiali per attività pratiche in aula da svolgersi nell'ambito di un corso di alfabetizzazione digitale per migranti con istruzione bassa.
 
-E' stato creato per: 
+E' stato creato per:
 
-* condividere lo sforzo di creare materiali didattici 
-* aiutare altri insegnanti che possono riutilizzare i materiali disponibili qui. 
+* condividere lo sforzo di creare materiali didattici
+* aiutare altri insegnanti che possono riutilizzare i materiali disponibili qui.
 
 ## Di che cosa abbiamo bisogno?
 
@@ -126,7 +132,7 @@ Quindi, se sei:
    * un insegnante interessato o esperto in metodi educativi non-formali e/o nell'insegnamento ai migranti;
    * un esperto di tecnologie didattiche;
    * uno sviluppatore/computer scientist/qualsiasi tipo di professione in ambito IT, con un interesse ad avere un impatto sul mondo reale al di là delle tue attività quotidiane...
-   
+
 ... il tuo contributo è benvenuto!
 
 La lista dei materiali dei quali abbiamo bisogno, è disponibile qui. (add link)
@@ -135,7 +141,11 @@ La lista dei materiali dei quali abbiamo bisogno, è disponibile qui. (add link)
 
 Scegli una [issue](https://github.com/nam-301/culturabinaria/issues), crea i materiali, e caricali nella cartella corrispondente.
 
-[Qui](https://github.com/nam-301/culturabinaria/wiki) trovi le istruzioni su come fare a caricarli 
+[Qui](https://github.com/nam-301/culturabinaria/wiki) trovi le istruzioni su come fare a caricarli
+
+## Come scaricare i materiali
+
+Scaricare i nostri materiali è semplice: naviga fino al file o alla cartella che ti interessa (per esempio la Lezione 02, dedicata alla spiegazione della gestione dei file), fai tasto destro con il mouse, seleziona "Salva con nome", e salva dove preferisci sul tuo computer.
 
 ## Contattaci
 
