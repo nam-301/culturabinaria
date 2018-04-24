@@ -6,14 +6,15 @@
 
 Here you can find some information about the project. Scroll down or click one of the titles below!
 
-* [Who are we?](#who-are-we) 
+* [Who are we?](#who-are-we)
 * [What are we doing?](#what-are-we-doing)
 * [What is non-formal education?](#what-is-non-formal-education)
-* [What is this place?](#what-is-this-place) 
+* [What is this place?](#what-is-this-place)
 * [What do we need?](#what-do-we-need)
-* [How can you get involved?](#how-can-you-get-involved) 
+* [How can you get involved?](#how-can-you-get-involved)
 * [How can you download our materials?](#how-can-you-download-our-materials)
 * [Get in touch](#get-in-touch)
+* [Participation guidelines](#participation-guidelines)
 
 ## Who are we?
 
@@ -36,7 +37,7 @@ We are now **collecting teaching materials** that we can re-use in our own cours
 Non-formal education is (roughly) a way of teaching that does not require the teacher to stand in front of the class and give a lecture, but that rather involves the students in a lot of **practical activities**, for example:
 
 * act
-* move around & use the space 
+* move around & use the space
 * play games in teams, draw
 * tell stories...
 
@@ -85,6 +86,9 @@ It's easy! Just navigate until the file that interests you the most (for example
 For any further info, you can contact [@martina_puppi](https://twitter.com/martina_puppi), the creator of this repository.
 
 This project is currently participating in the [Mozilla Open Leaders](https://medium.com/read-write-participate/meet-our-next-cohort-of-open-leaders-ebc8dadb2e53) program.
+
+## Participation guidelines
+This project adheres to [Mozilla's participation guidelines.](https://www.mozilla.org/en-US/about/governance/policies/participation/) By contributing to this project, you agree to adhere to them too.
 
 # Italiano
 
