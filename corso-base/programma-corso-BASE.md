@@ -7,7 +7,7 @@
 
 Presentazioni e giochi di ice-breaker.
 
-Attività: le stesse del corso avanzato che trovate [qui](corso-avanzato/lez1/attività-lez1.md)
+Attività: le stesse del corso avanzato che trovate [qui](https://github.com/nam-301/culturabinaria/blob/master/corso-avanzato/lez01-introduzione/attivit%C3%A0-lez1.md)
 
 ## LEZIONE 2
 
