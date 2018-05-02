@@ -13,7 +13,7 @@ Attività: le stesse del corso avanzato che trovate [qui](https://github.com/nam
 
 :warning: I PC sono spenti per tutta la lezione (tranne PC per mostrare componenti)
 
-* Presentazione del corso (oppurtuna? come? vedi Issue#5)
+* Presentazione del corso (come fare?? vedi [Issue#5](https://github.com/nam-301/culturabinaria/issues/5))
 
 * Com'è sono fatti dentro i PC e gli smartphones: le componenti hardware
 
