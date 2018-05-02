@@ -25,11 +25,11 @@ Attività: le stesse del corso avanzato che trovate [qui](https://github.com/nam
 :warning: All'inizio della lezione i PC sono spenti. Vengono accesi (password inserita, lanciato Word) dai tutor solo prima degli eserci alla tastiera.
 
 * Attività follow-up della lezione precedente: formare piccoli gruppi da 2 o da 3. Fornire ogni gruppo di post-it. I ragazzi copiano i nomi delle componenti sui post-it e poi li attaccano nei posti giusti.
-* Inizio Tastiera [(slides)](lez03/tastiera.pptx): lettere, numeri, maiuscole, minuscole, invio, a capo, cancella; esercizi.
+* Inizio Tastiera [(slides)](https://github.com/nam-301/culturabinaria/blob/master/corso-base/lez03-tastiera1/tastiera.pptx): lettere, numeri, maiuscole, minuscole, invio, a capo, cancella; esercizi.
 
 ## LEZIONE 4
 * Impariamo ad accendere il PC e a digitare la password!
-* Continuazione Tastiera [(slides)](lez04/tastiera2.pptx): ripasso lezione precedente (con esercizi di ripasso) e nuovi argomenti: la punteggiatura e gli spazi dopo di essa; esercizi.
+* Continuazione Tastiera [(slides)](https://github.com/nam-301/culturabinaria/blob/master/corso-base/lez04-tastiera2-e-mouse/tastiera2.pptx): ripasso lezione precedente (con esercizi di ripasso) e nuovi argomenti: la punteggiatura e gli spazi dopo di essa; esercizi.
 * Il mouse: i tutor aprono i browser e vanno su [questo](http://mouseprogram.com/practice.html) sito. I ragazzi fanno gli esercizi.
 
 ## LEZIONE 5
