@@ -18,7 +18,7 @@ Attività: le stesse del corso avanzato che trovate [qui](https://github.com/nam
 * Com'è sono fatti dentro i PC e gli smartphones: le componenti hardware
 
 * Mostrare i componenti hardware principali del PC e dello smartphone
-* [Attività "teatro"](lez2/hardware-base.md) per imparare il ruolo delle componenti hardware
+* [Attività "teatro"](https://github.com/nam-301/culturabinaria/blob/master/corso-base/lez02-hardware-e-software/hardware-base.md) per imparare il ruolo delle componenti hardware
 
 ## LEZIONE 3
 
