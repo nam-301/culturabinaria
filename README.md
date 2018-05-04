@@ -156,9 +156,9 @@ La lista dei materiali dei quali abbiamo bisogno, è disponibile qui. (add link)
 
 ## Come partecipare
 
-Scegli una [issue](https://github.com/nam-301/culturabinaria/issues), crea i materiali, e caricali nella cartella corrispondente.
-
-[Qui](https://github.com/nam-301/culturabinaria/wiki) trovi le istruzioni su come fare a caricarli
+1. Vai alla sezione delle ["cose da fare"](https://github.com/nam-301/culturabinaria/issues)
+2. Scegli un argomento di cui occuparti in base ai tuoi interessi e competenze (opzionale: assegnalo a te stesso)
+3. Crea i materiali e caricali nella cartella corrispondente (se non è indicata una cartella, caricali sotto la cartella [altri-materiali](https://github.com/nam-301/culturabinaria/tree/master/altri-materiali)] e ci penseremo noi!). [Qui](https://github.com/nam-301/culturabinaria/wiki) trovi le istruzioni su come fare a caricare i materiali.
 
 ## Come scaricare i materiali
 
