@@ -79,7 +79,7 @@ Pick an issue, create the materials, and upload them!
 
 ## How can you download our materials?
 
-It's easy! Just navigate until the file that interests you the most (for example, the entire Lesson 02 of the intermediate level, which is dedicated to file management), then do right-click, select "Save link as" and save it on your preferred location on you computer.
+It's easy! Just navigate until the file that interests you the most (for example, the entire [Lesson 02](https://github.com/nam-301/culturabinaria/tree/master/corso-avanzato/lez02-hardware-e-software) of the intermediate level, which is dedicated to file management), then do right-click, select "Save link as" and save it on your preferred location on you computer.
 
 ## Get in touch
 
@@ -158,7 +158,7 @@ Scegli una [issue](https://github.com/nam-301/culturabinaria/issues), crea i mat
 
 ## Come scaricare i materiali
 
-Scaricare i nostri materiali è semplice: naviga fino al file o alla cartella che ti interessa (per esempio la Lezione 02, dedicata alla spiegazione della gestione dei file), fai tasto destro con il mouse, seleziona "Salva con nome", e salva dove preferisci sul tuo computer.
+Scaricare i nostri materiali è semplice: naviga fino al file o alla cartella che ti interessa (per esempio la [Lezione 02](https://github.com/nam-301/culturabinaria/tree/master/corso-avanzato/lez02-hardware-e-software), dedicata alla gestione dei file), fai tasto destro con il mouse, seleziona "Salva con nome", e salva dove preferisci sul tuo computer.
 
 ## Contattaci
 
