@@ -1,3 +1,6 @@
+**Cultura Binaria** is a project aimed at collaboratively creating educational materials to teach digital literacy to low-educated migrants.
+The materials are currently in **Italian** only, but we are open to contributions in other languages, too.
+
 # Benvenuti! Welcome!
 
 :seedling: Thank you for visiting **Cultura Binaria**. We are happy you are here :seedling:
@@ -91,6 +94,7 @@ This project is currently participating in the [Mozilla Open Leaders](https://me
 This project adheres to [Mozilla's participation guidelines.](https://www.mozilla.org/en-US/about/governance/policies/participation/) By contributing to this project, you agree to adhere to them too.
 
 # Italiano
+**Cultura Binaria** è un progetto che si propone di creare, in maniera collaborativa, un archivio di materiali didattici per l'insegnamento dell'informatica a migranti a bassa scolarizzazione.
 
 Benvenuti in **Cultura Binaria**!
 
