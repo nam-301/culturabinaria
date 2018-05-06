@@ -28,4 +28,18 @@ The course is composed of many activities and practical exercises.
 
 Welcome! We hope you will enjoy the course.
 
-## (FR) MESSAGE PUR LE DEBOUT DE LE COURSE
+## (FR) MESSAGE POUR LE DEBUT DU COURS
+Bienvenue au cours d'informatique.
+
+Ce cours aura lieu tous les lundis et mercredis de 19h à 20h30, à partir d'aujourd'hui et jusqu'à la fin du mois de juin. Il est important que vous arriviez à l'heure, afin que nous puissions commencer tous ensemble.
+
+Dans ce cours, vous apprendrez à utiliser un ordinateur. Vous allez apprendre quels sont les composants d'un ordinateur, comment utiliser un clavier, une souris, comment écrire un texte sur ordinateur, comment effectuer une recherche sur internet, entre autres.
+
+Avec les autres enseignants que vous rencontrerez ici, nous sommes tous volontaires. Cela signifie que nous ne sommes pas payés pour venir ici. Nous ne travaillons pas pour Cinformi et nous ne sommes pas opérateurs pour campo di Marco.
+
+Nous avons décidé d'organiser ce cours pour vous car nous pensons qu'il est important pour vous de savoir utiliser un ordinateur, ainsi que pour chaque personne qui souhaite vivre en Italie ou en Europe. En Italie, les gens utilisent l'ordinateur très souvent dans leur vie quotidienne. Savoir utiliser un ordinateur vous procurera de nombreux avantages, par exemple pour chercher un travail, communiquer avec l'administration ou les services de sécurité sociale, trouver des informations de manière générale.
+
+Ce cours est composé de nombreuses activités et exercices pratiques.
+
+Bienvenue! Nous espérons que vous apprécierez ce cours.
+
