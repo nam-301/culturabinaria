@@ -93,6 +93,8 @@ This project is currently participating in the [Mozilla Open Leaders](https://me
 ## Participation guidelines
 This project adheres to [Mozilla's participation guidelines.](https://www.mozilla.org/en-US/about/governance/policies/participation/) By contributing to this project, you agree to adhere to them too.
 
+If you have any questions, contact Martina at martina.puppi@indie.host
+
 # Italiano
 **Cultura Binaria** è un progetto che si propone di creare, in maniera collaborativa, un archivio di materiali didattici per l'insegnamento dell'informatica a migranti a bassa scolarizzazione.
 
