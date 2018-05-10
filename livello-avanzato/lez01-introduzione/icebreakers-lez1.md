@@ -46,6 +46,6 @@ Alla fine del corso, si ripete questo esercizio per capire cosa abbiamo imparato
 Proiettare una mappa online; chiedere a ciascuno il luogo di provenienza. Salvare ogni posto mettendo un "pin" per vedere l'effetto tutti insieme.
 
 ## Attività 4: "Fare a mano" vs. "fare con l'informatica (pc/smartphone)"
-Tutti sono seduti intorno al tavolo. L’insegnante mostra una per una queste flash card.
+Tutti sono seduti intorno al tavolo. L’insegnante mostra una per una queste [flash cards](https://github.com/nam-301/culturabinaria/blob/master/livello-avanzato/lez01-introduzione/flashcards-fareManoVsFarePC.pdf).
 
 Per ognuna flash-card, gli studenti devono rispondere se è una cosa che loro farebbero a mano, con un computer, oppure con lo smartphone. Per ognuna, l’insegnante guida la discussione (per esempio, se la risposta è “con il computer”, si può parlare di quale programma si usa; se una cosa si può fare in due modi, discutere delle differenze dell’uno e dell’altro modo ..)
