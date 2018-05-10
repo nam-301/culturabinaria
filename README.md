@@ -1,4 +1,5 @@
-**Cultura Binaria** is a project aimed at collaboratively creating educational materials to teach digital literacy to low-educated migrants.
+**Cultura Binaria** is a project aimed at collaboratively creating educational materials for a digital literacy group with a specific target, namely low-educated migrants who join a more "technologically oriented" community. The materials are based on non-formal education principles.
+
 The materials are currently in **Italian** only, but we are open to contributions in other languages, too.
 
 # Benvenuti! Welcome!
