@@ -19,13 +19,13 @@ Presentazioni e giochi di ice-breaker.
 
 * Com'è sono fatti dentro i PC e gli smartphones: le componenti hardware e la differenza con il software.
 
-**Attività**: Si smonta un PC e uno smartphone, poi si fa un [quiz](lez02/quiz-hardware-lez2.md) con le parole imparate.
+**Attività**: Si smonta un PC e uno smartphone, poi si fa un [quiz](https://github.com/nam-301/culturabinaria/blob/master/livello-avanzato/lez02-hardware-e-software/quiz-hardware-lez2.md) con le parole imparate.
 
-[Slides](lez02/hardware-and-software.pdf) con le parole da imparare.
+[Handout](https://github.com/nam-301/culturabinaria/blob/master/livello-avanzato/lez02-hardware-e-software/hardware-and-software.pdf) con le parole da imparare.
 
 * Spiegazione: il concetto di file (collegarlo immediatamente con spiegazione memoria!) 
 
-**Attività**: Gioco ["File o cartella?"](lez02/file-vs-cartelle)
+**Attività**: Gioco ["File o cartella?"](https://github.com/nam-301/culturabinaria/tree/master/livello-avanzato/lez02-hardware-e-software/file-vs-cartellee)
 
 ## LEZIONE 3
 
