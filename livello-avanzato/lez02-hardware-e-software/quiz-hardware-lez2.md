@@ -48,7 +48,6 @@ Vince chi, dopo TOT minuti, ha fatto meno errori.
 - scheda wifi
 - (modem)
 - porta USB
-- BUS
 - schermo
 - mouse
 
