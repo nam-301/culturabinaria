@@ -6,7 +6,7 @@ Questo gioco è disegnato in modo che a nessuno sia chiesto di parlare o dare un
 
 Dividere i ragazzi in due squadre. Ogni squadra ha a disposizione un tavolo, sgombro, intorno al quale possono radunarsi tutti.
 
-Distribuire flash cards AZIONI e flash cards COMPONENTI.
+Distribuire flash cards [AZIONI](https://github.com/nam-301/culturabinaria/blob/master/livello-avanzato/lez02-hardware-e-software/flahcards-AZIONI.pdf) e flash cards [COMPONENTI](https://github.com/nam-301/culturabinaria/blob/master/livello-avanzato/lez02-hardware-e-software/flashcards-COMPONENTS.pdf).
 
 Le due squadre devono abbinare l'azione con i componenti giusti, mettendoli fianco a fianco.
 
