@@ -25,7 +25,7 @@ Presentazioni e giochi di ice-breaker.
 
 * Spiegazione: il concetto di file (collegarlo immediatamente con spiegazione memoria!) 
 
-**Attività**: Gioco ["File o cartella?"](https://github.com/nam-301/culturabinaria/tree/master/livello-avanzato/lez02-hardware-e-software/file-vs-cartellee)
+**Attività**: Gioco ["File o cartella?"](https://github.com/nam-301/culturabinaria/tree/master/livello-avanzato/lez02-hardware-e-software/file-vs-cartelle)
 
 ## LEZIONE 3
 
