@@ -1,38 +1,38 @@
 # Quiz sulle componenti hardware
 
+## Istruzioni per gli insegnanti
+
 Questo gioco è disegnato in modo che a nessuno sia chiesto di parlare o dare una risposta giusta o sbagliata davanti a tutti.
 
 Dividere i ragazzi in due squadre. Ogni squadra ha a disposizione un tavolo, sgombro, intorno al quale possono radunarsi tutti.
 
 Distribuire flash cards AZIONI e flash cards COMPONENTI.
 
-Le due squadre devono abbinare l'azione con il componente giusto, mettendoli fianco a fianco.
+Le due squadre devono abbinare l'azione con i componenti giusti, mettendoli fianco a fianco.
 
-Vince chi, dopo TOT minuti, ha fatto meno errori.
+Vince chi, dopo 15 minuti, ha fatto meno errori.
 
 ## LISTA AZIONI ##
 
-- salvare una foto
-- riprodurre una canzone da internet
-- riprodurre una canzone locale
-- riprodurre un video da internet
-- riprodurre un video locale
-- raggiungere un indirizzo seguendo le direzioni 
-- cercare un indirizzo
-- navigare tra le cartelle
-- scrivere un documento di testo 
-- scrivere un messaggio su whatsapp
-- fare una telefonata
-- modificare una foto
-- registrare un messaggio vocale
-- girare un video
-- fare una foto
-- connettersi a una rete wifi
-- connettersi
-- guardare le email
-- scaricare una app
-- scaricare un programma (software)
-
+1 salvare una foto
+2 riprodurre una canzone da internet
+3 riprodurre una canzone locale
+4 riprodurre un video da internet
+5 riprodurre un video locale
+6 raggiungere un indirizzo seguendo le direzioni 
+7 cercare un indirizzo
+8 navigare tra le cartelle
+9 scrivere un documento di testo 
+10 scrivere un messaggio su whatsapp
+11 fare una telefonata
+12 modificare una foto
+13 registrare un messaggio vocale
+14 girare un video
+15 fare una foto
+16 connettersi a una rete wifi
+17 guardare le email
+18 scaricare una app
+19 scaricare un programma (software)
 
 ## LISTA COMPONENTI (PC) ##
 
