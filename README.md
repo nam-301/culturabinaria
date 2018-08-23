@@ -1,3 +1,8 @@
+**UPDATE SUMMER 2018**
+This repository has been a highly experimental project (spring 2018) aimed at organizing & maintaining a non-code collaborative project (developing educational materials for a digital skills course) using Git tools. It probably hasn't worked as we hoped, but that's the beauty of experimentation :simple_smile: 
+
+We'll keep the materials here, but we're planning active develop elsewhere (currently experimenting Rumie's [Learn Cloud](https://learncloud.rumie.org/)). Stay tuned and please contact [@martina_puppi](https://twitter.com/martina_puppi) if you have any question!
+
 **Cultura Binaria** is a project aimed at collaboratively creating educational materials for a digital literacy group with a specific target, namely low-educated migrants who join a more "technologically oriented" community. The materials are based on non-formal education principles.
 
 The materials are currently in **Italian** only, but we are open to contributions in other languages, too.
