@@ -96,7 +96,7 @@ It's easy! Just navigate until the file that interests you the most (for example
 
 For any further info, you can contact [@martina_puppi](https://twitter.com/martina_puppi), the creator of this repository.
 
-This project is currently participating in the [Mozilla Open Leaders](https://medium.com/read-write-participate/meet-our-next-cohort-of-open-leaders-ebc8dadb2e53) program.
+This project has participated, in spring 2018, in the [Mozilla Open Leaders](https://medium.com/read-write-participate/meet-our-next-cohort-of-open-leaders-ebc8dadb2e53) program.
 
 ## Participation guidelines
 This project adheres to [Mozilla's participation guidelines.](https://www.mozilla.org/en-US/about/governance/policies/participation/) By contributing to this project, you agree to adhere to them too.
@@ -104,6 +104,12 @@ This project adheres to [Mozilla's participation guidelines.](https://www.mozill
 If you have any questions, contact Martina at martina.puppi@indie.host
 
 # Italiano
+**AGGIORNAMENTO ESTATE 2018** Questa repository è stata un progetto sperimentale (primavera 2018) nato con l'obiettivo di provare ad usare gli strumenti di Git per lo sviluppo collaborativo di materiali didattici per l'insegnamento dell'informatica. Non ha funzionato come avremmo voluto, ma è il bello della sperimentazione :relaxed:
+
+La repository rimarrà qui, ma non verrà più mantenuta, dal momento che abbiamo spostato lo sviluppo altrove (al momento stiamo sperimentando la piattaforma [Learn Cloud](https://learncloud.rumie.org/) di Rumie.) Continuate a seguirci, e per info, contattate [@martina_puppi](https://twitter.com/martina_puppi) :zap:
+
+--
+
 **Cultura Binaria** è un progetto che si propone di creare, in maniera collaborativa, un archivio di materiali didattici per l'insegnamento dell'informatica a migranti a bassa scolarizzazione.
 
 Benvenuti in **Cultura Binaria**!
@@ -178,4 +184,4 @@ Scaricare i nostri materiali è semplice: naviga fino al file o alla cartella ch
 
 Per qualsiasi altra informazione, puoi scrivere a [@martina_puppi](https://twitter.com/martina_puppi), la creatrice di questo repository.
 
-Questo progetto fa parte di [Mozilla Open Leaders](https://medium.com/read-write-participate/meet-our-next-cohort-of-open-leaders-ebc8dadb2e53)
+Questo progetto ha fatto parte, insieme ad altri, del programma [Mozilla Open Leaders](https://medium.com/read-write-participate/meet-our-next-cohort-of-open-leaders-ebc8dadb2e53) durante la primavera del 2018.
